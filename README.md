@@ -1,7 +1,18 @@
-Development——AX6_AX3600_AX9000开发版
-激进，快速，稳定.层次逻辑更清晰
+很久 没跟新了，今天更新一波！
+只编译5.10内核的IPQ807X
+没有源码的更新，只更新最新插件
 
-20210927精简了部分特小众的插件
+IPQ807x无线NSS，暂时没测试！基于这位大神的源码：https://github.com/qosmio/openwrt-ipq.git
+
+国内网盘：https://wwnn.lanzoue.com/b02c8p8ta
+密码:777s
+
+AX3600:https://wwnn.lanzoue.com/b02cca30f
+密码:2zy3
+
+
+Development——AX6_AX3600_AX9000开发版
+lean已删除AX9000相关！所以AX9000开发板将只是插件的更新！
 
 包含：
 
